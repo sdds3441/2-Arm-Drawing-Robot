@@ -2,11 +2,15 @@
 
 This project is making 2 Link Darwing robot with arduino, controlled by PID.
 
+Instead of using a servo motor, we used a potentiometer to measure the angle of the DC motor.
+
 ## Part Specification
 
   Motor : RB45GM 21TYPE DC 12V 1/60 * 2, 1/100 * 1
 
   Motor Driver : SZH-EK001 * 3
+
+  Potentiometer : 10KΩ * 3
   
   Controller : Aruduino Uno * 1
   
